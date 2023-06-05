@@ -1,0 +1,7 @@
+---
+name: diskUsedBytes
+type: attribute
+units: bytes (B)
+---
+
+The cumulative disk space used across all supported devices, in bytes. To find per-device values, use [StorageSample events](https://docs.newrelic.com/attribute-dictionary/?event=StorageSample).

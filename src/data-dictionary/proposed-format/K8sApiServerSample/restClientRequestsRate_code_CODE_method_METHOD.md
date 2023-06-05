@@ -1,0 +1,7 @@
+---
+name: restClientRequestsRate_code_CODE_method_METHOD
+type: attribute
+units: null
+---
+
+Rate of the number of HTTP requests, partitioned by method and code.
